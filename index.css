@@ -1,0 +1,7 @@
+#heading {
+    color : red;
+    text-align : center;
+    &:hover {
+        color : blue;
+    }
+}
