@@ -15,5 +15,5 @@
 -tree shaking - removes unused code
 
 # Browser-list
- -it used to cofigure whc browser versions should be supported
+ -it used to cofigure which browser versions should be supported
  -we can configure based on country wise as well
